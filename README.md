@@ -27,7 +27,9 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
 
 
-  ping saveetha.ac.in
+
+   ping saveetha.ac.in
+
 
 
 ## OUTPUT:
